@@ -2,7 +2,7 @@ from mcts_node import MCTSNode
 from random import choice
 from math import sqrt, log
 
-num_nodes = 25 #1000
+num_nodes = 50 #1000
 explore_factor = 2
 
 # helper function for traverse_nodes()

@@ -4,11 +4,11 @@ Win Dist. (1: 34, 2: 66)
 p1: 100, p2: 150
 Win Dist. (1: 43, 2: 56)
 
-p1: 100, p2: 100
-Win Dist. (1: 34, 2: 66)
-
 p1: 100, p2: 50
-Win Dist. (1: 34, 2: 66)
+Win Dist. (1: 70, 2: 30)
 
 p1: 100, p2: 25
-Win Dist. (1: 34, 2: 66)
+Win Dist. (1: 88, 2: 12)
+
+After running these tests, I have concluded that there is a direct correlation with winrate and node count.
+The Vanilla bot that had more nodes per tree tended to have a higher winrate.
